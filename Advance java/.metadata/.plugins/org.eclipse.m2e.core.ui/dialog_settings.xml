@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\nasam giridhar\eclipse-workspace\GEAM-1\hiberante-fourth"/>
+			<item value="C:\Users\nasam giridhar\eclipse-workspace\GEAM-1\jdbc-person"/>
+			<item value="C:\Users\nasam giridhar\eclipse-workspace\GEAM-1\spring-dependency-injection\src\main\resources\injection3.xml"/>
+			<item value="C:\Users\nasam giridhar\eclipse-workspace\GEAM-1\servlet-hospital\src\main\webapp\display.jsp"/>
+			<item value="C:\Users\nasam giridhar\eclipse-workspace\GEAM-1\servlet-hospital"/>
+			<item value="C:\Users\nasam giridhar\eclipse-workspace\GEAM-1\servlet-crud\src\main\java\com\jsp\dao\UpdateUser.java"/>
+			<item value="C:\Users\nasam giridhar\eclipse-workspace\GEAM-1\servlet-crud"/>
+			<item value="C:\Users\nasam giridhar\eclipse-workspace\GEAM-1\servlet-check\src\main\webapp\form.html"/>
+			<item value="C:\Users\nasam giridhar\eclipse-workspace\GEAM-1\hibernate-first\pom.xml"/>
+			<item value="C:\Users\nasam giridhar\eclipse-workspace\GEAM-1\servlet-check\src\main\java\com\jsp\Task1.java"/>
+			<item value="C:\Users\nasam giridhar\eclipse-workspace\GEAM-1\hibernate-task\src\main\java\com\jsp\dao\UserDao.java"/>
+			<item value="C:\Users\nasam giridhar\eclipse-workspace\GEAM-1\hibernate-first\src\main\java\com\jsp\dto\Student.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.jsp"/>
+			<item value="com"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="Session-factory"/>
+			<item value="hibernate-crud"/>
+			<item value="hrms-project"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenModuleWizardParentPage">
+		<list key="moduleName">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\nasam giridhar\Dropbox\PC\Downloads\servlet-jsp-hospital\servlet-jsp-hospital"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

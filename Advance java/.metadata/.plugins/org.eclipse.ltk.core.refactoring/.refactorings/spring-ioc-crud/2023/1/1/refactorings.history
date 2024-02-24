@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.jsp.util&apos; to &apos;spring-mvc-second/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;spring-ioc-crud&apos;&#x0D;&#x0A;- Destination element: &apos;spring-mvc-second/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;spring-ioc-crud/src/main/java/com.jsp.util&apos;" description="Copy package" destination="=spring-mvc-second/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.jsp.util" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1672665026203" version="1.0"/>
+</session>
